@@ -1,6 +1,6 @@
 # COVID-19 Vaccine Effectiveness Visualization
 
-Generates a graph plotting total vaccine doses per 100k population versus cumulative COIVD-19 cases per 100k population in last 7 days for each of the 50 US states. Each time the Python script is run, it looks for updated data from the CDC. A trendline is plotted as well.
+Generates a graph plotting total vaccine doses per 100k population versus cumulative COVID-19 cases per 100k population in last 7 days for each of the 50 US states. Each time the Python script is run, it looks for updated data from the CDC. A trendline is plotted as well.
 
 ## Data Sources
 
